@@ -2,7 +2,7 @@
 
 My first ever programming project. Kept here unchanged as a snapshot of where I started.
 
-A command-line Formula 1 race strategy builder based on the 2022 Mexico Grand Prix. You enter a race distance and pick tyre compounds for each stint, the programme validates your inputs (stint lengths, compound rules, the two-compound regulation), and it plots your resulting strategy with matplotlib.
+A command-line Formula 1 race strategy builder based on the 2022 Mexico Grand Prix. You enter a race distance and pick tyre compounds for each stint, the program validates your inputs (stint lengths, compound rules, the two-compound regulation), and it plots your resulting strategy with matplotlib.
 
 ## What it does
 
